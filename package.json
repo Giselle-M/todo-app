@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Giselle-M/todo-app/issues"
   },
-  "homepage": "https://github.com/Giselle-M/todo-app#readme"
+  "homepage": "https://github.com/Giselle-M/todo-app#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
 }
